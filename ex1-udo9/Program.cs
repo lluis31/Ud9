@@ -9,9 +9,9 @@ namespace ex1_udo9
 
         public Alumno()
         {
-            Console.Write("Ingrese nombre:");
+            Console.Write("Escribe tu nombre:");
             nombre = Console.ReadLine();
-            Console.Write("Ingrese edad:");
+            Console.Write("Escribe tu edad:");
             string linea = Console.ReadLine();
             edad = int.Parse(linea);
         }
