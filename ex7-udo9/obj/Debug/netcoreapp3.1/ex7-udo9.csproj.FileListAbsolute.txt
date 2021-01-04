@@ -1,0 +1,12 @@
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/bin/Debug/netcoreapp3.1/ex7-udo9.deps.json
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/bin/Debug/netcoreapp3.1/ex7-udo9.runtimeconfig.json
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/bin/Debug/netcoreapp3.1/ex7-udo9.runtimeconfig.dev.json
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/bin/Debug/netcoreapp3.1/ex7-udo9.dll
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/bin/Debug/netcoreapp3.1/ex7-udo9.pdb
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.csprojAssemblyReference.cache
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.AssemblyInfoInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.AssemblyInfo.cs
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.csproj.CoreCompileInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.dll
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.pdb
+/Users/lluisplanasmastel/Desktop/Git/Ud9/ex7-udo9/obj/Debug/netcoreapp3.1/ex7-udo9.genruntimeconfig.cache

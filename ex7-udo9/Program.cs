@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ex8_udo9
+namespace ex7_udo9
 {
     class Persona2
     {
