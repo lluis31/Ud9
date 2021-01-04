@@ -20,8 +20,8 @@ namespace ex4_udo9
         {
             Persona Yo = new Persona();
             Persona Tu = new Persona();
-            Yo.SetNombre("Arnau");
-            Tu.SetNombre("NoArnau");
+            Yo.SetNombre("Lluis");
+            Tu.SetNombre("NoLluis");
             Yo.Saludar();
             Tu.Saludar();
         }
