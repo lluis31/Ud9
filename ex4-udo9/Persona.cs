@@ -16,7 +16,7 @@ namespace ex4_udo9
             Console.WriteLine("Hola soy {0}", this.Nombre);
         }
 
-        public static void Ex4()
+        public static void Pruebapersona()
         {
             Persona Yo = new Persona();
             Persona Tu = new Persona();
@@ -25,6 +25,6 @@ namespace ex4_udo9
             Yo.Saludar();
             Tu.Saludar();
         }
-
     }
+
 }
